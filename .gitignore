@@ -1,0 +1,12 @@
+.venv/
+data/train/
+data/test/
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+.DS_Store
+.env
+.env.*
+*.pyc
+*.log
+Project_Information_2026_ECE9611.pdf
